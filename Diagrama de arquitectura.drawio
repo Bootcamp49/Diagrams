@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-01-20T01:45:57.748Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 OPR/105.0.0.0" etag="pA6lmJYIW2lDvfDiwtsX" version="22.1.21" type="device">
+<mxfile host="Electron" modified="2024-01-20T19:36:51.054Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.1.21 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="lQNDtOirXij830ShvPXS" version="22.1.21" type="device">
   <diagram id="8oLspM2wZ1H77Sg41tob" name="Página-2">
-    <mxGraphModel dx="1009" dy="621" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1050" dy="669" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -22,10 +22,10 @@
         <mxCell id="pIi0J-Xdgk0wjFKAjO-7-1" value="User" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;" parent="kXRiTJhAdjk5Hr_LBJBL-1" vertex="1">
           <mxGeometry x="113.92500000000001" y="48.717948717948715" width="87.57500000000002" height="48.717948717948715" as="geometry" />
         </mxCell>
-        <mxCell id="pIi0J-Xdgk0wjFKAjO-7-3" value="Movimientos" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;" parent="kXRiTJhAdjk5Hr_LBJBL-1" vertex="1">
+        <mxCell id="pIi0J-Xdgk0wjFKAjO-7-3" value="Movement" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;" parent="kXRiTJhAdjk5Hr_LBJBL-1" vertex="1">
           <mxGeometry x="113.92500000000001" y="263.0769230769231" width="93" height="48.717948717948715" as="geometry" />
         </mxCell>
-        <mxCell id="pIi0J-Xdgk0wjFKAjO-7-2" value="Productos" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;" parent="kXRiTJhAdjk5Hr_LBJBL-1" vertex="1">
+        <mxCell id="pIi0J-Xdgk0wjFKAjO-7-2" value="Product" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;" parent="kXRiTJhAdjk5Hr_LBJBL-1" vertex="1">
           <mxGeometry x="113.92500000000001" y="155.89743589743588" width="87.57500000000002" height="48.717948717948715" as="geometry" />
         </mxCell>
         <mxCell id="GyOG85taT2vMuiKuXW7j-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.002;entryY=0.466;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="yzk8e4KCEQ2QvVVyf_Z4-1" target="yzk8e4KCEQ2QvVVyf_Z4-3" edge="1">
